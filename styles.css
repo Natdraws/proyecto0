@@ -2,8 +2,7 @@ h1 {
 	color: #8daad9;
 	
 }
-div {
-	background-color: green;
-	width: 400px;
-	height: 400px;
+p {
+	font-family: Burbank Big, Condensed Black;
+	font-size: 30px;
 }
